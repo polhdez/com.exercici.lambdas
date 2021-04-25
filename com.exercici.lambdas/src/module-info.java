@@ -1,0 +1,2 @@
+module com.exercici.lambdas {
+}
